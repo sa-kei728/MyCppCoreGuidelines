@@ -4,6 +4,7 @@ http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 基本的には[DeepL](https://www.deepl.com/translator)で直訳したものを載せてますが,  
 訳が明らかに間違ってそうな箇所や独特な言い回しは自分なりの文書に直している箇所もあります.  
 Supporting sectionsは対応していません.  
+各ルールに関して一般的な意見も考慮して自明かそうでないか, に関しても記載しています.  
 
 ## Update Date
 2021/08/15
