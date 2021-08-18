@@ -1,12 +1,10 @@
-# I.3: Avoid singletons
+# I.27: For stable library ABI, consider the Pimpl idiom
 
 ## Reason
 
 ## Example
 
 ## Note
-
-## Exception
 
 ## Enforcement
 

@@ -22,5 +22,5 @@
 [I.24: Avoid adjacent parameters that can be invoked by the same arguments in either order with different meaning](./24_AvoidAdjacentParameters/README.md)  
 [I.25: Prefer empty abstract classes as interfaces to class hierarchies](./25_PreferEmptyAbstractClassAsInterfaces/README.md)  
 [I.26: If you want a cross-compiler ABI, use a C-style subset](./26_IfWantCrossCompilerUseCStyleSubset/README.md)  
-[I.27: For stable library ABI, consider the Pimpl idiom](./27_FOrStableLibraryConsiderPimplIdiom/README.md)  
+[I.27: For stable library ABI, consider the Pimpl idiom](./27_ForStableLibraryConsiderPimplIdiom/README.md)  
 [I.30: Encapsulate rule violations](./30_EncapsulateRuleViolations/README.md)  
